@@ -1,0 +1,25 @@
+body
+{
+    background-color: aqua;
+}
+#masodik
+{
+    margin-left: 10px;
+    border-top: black dotted;
+    border-bottom: blue dashed;
+    border-left: yellow solid;
+    border-right: green double;
+}
+.szelsobek
+{
+    background-color: white;
+}
+#harmadik
+{
+    border: 3px red dashed;
+    padding: 15px;
+}
+#negyedik
+{
+    background-image:url(kep1.jpg)
+}

@@ -1,0 +1,14 @@
+table, td
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#zold
+{
+    background-color: green;
+}
+#fekete
+{
+    background-color: black;
+    color: white;
+}
